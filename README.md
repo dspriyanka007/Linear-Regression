@@ -1,2 +1,2 @@
-# step-1
+# Linear Regression
 Linear Regression solved Data set
